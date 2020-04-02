@@ -7,10 +7,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # entering our client_id and client_secret id
-# https://developer.spotify.com/dashboard/applications
-# create app and copy your keys here
-cid = ''
-secret = ''
+cid = '0a639e3cd4e546c885f8201d9b830418'
+secret = '5ae9dc2b11a5467bb59a7a941fbea4c9'
 
 # gaining access to all the public data using our ids
 ccm = SpotifyClientCredentials(client_id=cid, client_secret=secret)
