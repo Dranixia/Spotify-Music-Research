@@ -15,6 +15,12 @@ class MusicADT:
     """
     Represent MusicADT class and it operations it can perform.
     """
+
+    basic = [["rap", "hip-hop"], "pop", "country", "rock",
+             "jazz", "folk", "latin", "blues", "punk", "soul",
+             "pop standards", "r&b", "metal", ["house", "electronic", "trance"],
+             ["ska", "reggae", "dancehall"], "rock-and-roll", "swing"]
+
     def __init__(self, first_y, last_y, fullmode=False):
         """
         Initialize empty ADT, with mentioned time bounds.
@@ -203,15 +209,11 @@ class MusicADT:
         :return: None
         """
         if self.full:
-            basic = [["rap", "hip-hop"], "pop", "country", "rock",
-                     "jazz", "folk", "latin", "blues", "punk", "soul",
-                     "pop standards", "r&b", "metal", ["house", "electronic", "trance"],
-                     ["ska", "reggae", "dancehall"], "rock-and-roll", "swing"]
             with open("../docs/results.json", encoding='utf-8', errors="ignore") as file:
                 data = json.load(file)
                 x = list(data.keys())
             fig = go.Figure()
-            for genre in basic:
+            for genre in self.basic:
                 y = list()
                 for year in x:
                     y.append(self.basic_genre_in_year(int(year), genre))

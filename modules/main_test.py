@@ -34,7 +34,7 @@ def main():
         adt.genre_search(genre)
 
         print("\n\n\nNow the graphic time.")
-        sleep(5)
+        sleep(3)
         adt.graph()
     else:
         low = int(input("Enter lower year you are aiming for (1940 - 2016).\n"))
