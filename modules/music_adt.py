@@ -8,6 +8,7 @@ import json
 from list import List
 from linkedlist import Linked
 from dictionary import Dict
+import plotly.graph_objects as go
 
 
 class MusicADT:
@@ -38,13 +39,13 @@ class MusicADT:
         for i in range(len(self.main)):
             self.main[i] = Linked()
 
-    def fill_adt(self):
+    def fill_adt(self, f):
         """
         Fill the ADT corresponding to its time bounds.
         :return: None
         """
         index = 0
-        with open("../docs/results.json", encoding='utf-8', errors="ignore") as file:
+        with open(f, encoding='utf-8', errors="ignore") as file:
             data = json.load(file)
             for year in data.keys():
                 if int(year) in range(self.first, self.last + 1):
@@ -161,6 +162,23 @@ class MusicADT:
         else:
             print("Please, reload in full mode.")
 
+    def basic_genre_in_year(self, year, genre):
+        """
+        Return the percentage popularity of the given genre in the given year.
+        (only basic genres will have a result)
+        :param year: int
+        :param genre: str or list
+        :return: tuple
+        """
+        res = 0
+        for y in range(len(self.main)):
+            if year - self.first == y:
+                for track in self.main[y]:
+                    if track["Generalized Genre"] == genre:
+                        res += 1
+                break
+        return res/len(self.main[year - self.first])
+
     def refactor_for_json(self):
         """
         Transforms the ADT into json compatible form.
@@ -179,5 +197,28 @@ class MusicADT:
             json.dump(res, file, ensure_ascii=False, indent=4)
 
     def graph(self):
-        print("No")
-
+        """
+        If in fullmode, open browser page with all the data collected from
+        the research in form of line graphic.
+        :return: None
+        """
+        if self.full:
+            basic = [["rap", "hip-hop"], "pop", "country", "rock",
+                     "jazz", "folk", "latin", "blues", "punk", "soul",
+                     "pop standards", "r&b", "metal", ["house", "electronic", "trance"],
+                     ["ska", "reggae", "dancehall"], "rock-and-roll", "swing"]
+            with open("../docs/results.json", encoding='utf-8', errors="ignore") as file:
+                data = json.load(file)
+                x = list(data.keys())
+            fig = go.Figure()
+            for genre in basic:
+                y = list()
+                for year in x:
+                    y.append(self.basic_genre_in_year(int(year), genre))
+                fig.add_trace(go.Scatter(x=x, y=y, mode="lines", name=str(genre)))
+            fig.update_layout(title='Genre Popularity by Year',
+                              xaxis_title='Year',
+                              yaxis_title='Percentage')
+            fig.show()
+        else:
+            print("Please, reload in full mode.")

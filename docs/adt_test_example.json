@@ -1,0 +1,4292 @@
+{
+  "1999": [
+    {
+      "Position": "1",
+      "Author": "Cher",
+      "Track": "Believe",
+      "Original Genres": [
+        "dance pop",
+        "hollywood",
+        "new wave pop",
+        "pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/579967c91dc409b693b9819c12bbba83e4d0f9a4?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "2",
+      "Author": "TLC",
+      "Track": "No Scrubs",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "girl group",
+        "hip hop",
+        "hip pop",
+        "new jack swing",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/69daa711bddd8fe7aa9acf17106ca85cf1ccfa14?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "3",
+      "Author": "Monica",
+      "Track": "Angel Of Mine",
+      "Original Genres": [
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/7959cec67ef0e5fb1ea39350970c601160624c79?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "4",
+      "Author": "Whitney Houston",
+      "Track": "Heartbreak Hotel",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/8b5ddb2398df8b502b65155214f479639dcc48d1?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "5",
+      "Author": "Britney Spears",
+      "Track": "…Baby One More Time",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/da2134a161f1cb34d17c2d6d7e77cc93d1c1e6f7?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "6",
+      "Author": "Sixpence None The Richer",
+      "Track": "Kiss Me",
+      "Original Genres": [
+        "neo mellow",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/debe99cfd8e4f3b6703aed6ace0f6be2db6696a3?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "7",
+      "Author": "Christina Aguilera",
+      "Track": "Genie In A Bottle",
+      "Original Genres": [
+        "dance pop",
+        "europop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/31c45c1e2951c7713b67a91299d3da369f502c75?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "8",
+      "Author": "Sugar Ray",
+      "Track": "Every Morning",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "funk metal",
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/a6a38c3b3361c56319ff3ba9dcf6a557dda046d8?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "9",
+      "Author": "Deborah Cox",
+      "Track": "Nobody’s Supposed To Be Here",
+      "Original Genres": [
+        "canadian pop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary",
+        "vocal house"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/10480540e1891b10d5f5c7c6896a8e495eb2f5ac?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "10",
+      "Author": "Ricky Martin",
+      "Track": "Livin’ La Vida Loca",
+      "Original Genres": [
+        "dance pop",
+        "latin",
+        "latin pop",
+        "mexican pop",
+        "puerto rican pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/5fdf7aacfed97c3f3d476f58dac07b8214421acc?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "11",
+      "Author": "702",
+      "Track": "Where My Girls At?",
+      "Original Genres": [
+        "girl group",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "12",
+      "Author": "Jennifer Lopez",
+      "Track": "If You Had My Love",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/044024003a62bfcddff14658005aee0cc5533510?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "13",
+      "Author": "Goo Goo Dolls",
+      "Track": "Slide",
+      "Original Genres": [
+        "alternative rock",
+        "neo mellow",
+        "permanent wave",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/28cc4f1970ab4dfa3ed97b98ce801e884584a321?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "14",
+      "Author": "Brandy",
+      "Track": "Have You Ever?",
+      "Original Genres": [
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/6e0b56073fbd4cc5290759e5175a0d0de1867c54?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "15",
+      "Author": "Backstreet Boys",
+      "Track": "I Want It That Way",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "16",
+      "Author": "R. Kelly and Celine Dion",
+      "Track": "I’m Your Angel",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/5a8586e4a21ec03debd9daeaa741e314e81e32bd?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "17",
+      "Author": "Smash Mouth",
+      "Track": "All Star",
+      "Original Genres": [
+        "alternative rock",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "18",
+      "Author": "Sarah McLachlan",
+      "Track": "Angel",
+      "Original Genres": [
+        "canadian pop",
+        "canadian singer-songwriter",
+        "ectofolk",
+        "folk",
+        "lilith",
+        "neo mellow",
+        "new wave pop",
+        "permanent wave",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/fe703f824b494d3a131b87068b6c543f03047f9d?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "19",
+      "Author": "Santana feat. Rob Thomas",
+      "Track": "Smooth",
+      "Original Genres": [
+        "blues rock",
+        "classic rock",
+        "mexican classic rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/9f977ebb2e695502c8b1d3bd678ef706c9ea4ccb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "20",
+      "Author": "TLC",
+      "Track": "Unpretty",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "girl group",
+        "hip hop",
+        "hip pop",
+        "new jack swing",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/6b6dc4fe14511b523604bc25893defe6236c4f1c?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "21",
+      "Author": "Destiny’s Child",
+      "Track": "Bills, Bills, Bills",
+      "Original Genres": [
+        "dance pop",
+        "girl group",
+        "hip pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/5947a78d5f8dbf6cd776b9fef4aedda4c406f8ba?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "22",
+      "Author": "Eagle-Eye Cherry",
+      "Track": "Save Tonight",
+      "Original Genres": [
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/9659b96f80262985ff8663c46697b4c3d646daba?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "23",
+      "Author": "Pearl Jam",
+      "Track": "Last Kiss",
+      "Original Genres": [
+        "alternative rock",
+        "grunge",
+        "permanent wave",
+        "post-grunge",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/98609a653d88baf961226faf9555e60b0ad94616?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "24",
+      "Author": "Maxwell",
+      "Track": "Fortunate",
+      "Original Genres": [
+        "dance pop",
+        "funk",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "soul",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "25",
+      "Author": "Backstreet Boys",
+      "Track": "All I Have To Give",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/a2e4a37d486fbf861214a2976879a90afe5337f3?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "26",
+      "Author": "Enrique Iglesias",
+      "Track": "Bailamos",
+      "Original Genres": [
+        "dance pop",
+        "latin",
+        "latin pop",
+        "mexican pop",
+        "pop",
+        "tropical"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "27",
+      "Author": "Busta Rhymes feat. Janet",
+      "Track": "What’s It Gonna Be?!",
+      "Original Genres": [
+        "east coast hip hop",
+        "hardcore hip hop",
+        "hip hop",
+        "hip pop",
+        "pop rap",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/d691bae3a872992d1aa3739777c724b0af2619e8?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "28",
+      "Author": "Everlast",
+      "Track": "What It’s Like",
+      "Original Genres": [
+        "rap rock"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/59e8d15bc3e9868a941ba49c842218a9b9ef9f12?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "29",
+      "Author": "Lenny Kravitz",
+      "Track": "Fly Away",
+      "Original Genres": [
+        "permanent wave",
+        "pop rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "30",
+      "Author": "Sugar Ray",
+      "Track": "Someday",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "funk metal",
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/69dbf006bf268faafd2062af676b3081a20f9e41?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "31",
+      "Author": "Divine",
+      "Track": "Lately",
+      "Original Genres": [
+        "desi hip hop",
+        "desi pop",
+        "hindi hip hop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/d2baca8f5a2b8aa3b7b8b129961ff2c20c71baeb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "32",
+      "Author": "Shania Twain",
+      "Track": "That Don’t Impress Me Much",
+      "Original Genres": [
+        "canadian country",
+        "canadian pop",
+        "country",
+        "country dawn",
+        "dance pop"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "33",
+      "Author": "Will Smith feat. Dru Hill and Kool Moe Dee",
+      "Track": "Wild Wild West",
+      "Original Genres": [
+        "hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/3adf0f00d728e3ab23c7dd167dbaedfdcd2ef6fe?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "34",
+      "Author": "Red Hot Chili Peppers",
+      "Track": "Scar Tissue",
+      "Original Genres": [
+        "alternative rock",
+        "funk metal",
+        "funk rock",
+        "permanent wave",
+        "post-grunge",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/8602533a3ae6da937635c5fd8ae270d53ad291dc?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "35",
+      "Author": "Mariah Carey feat. Jay-Z",
+      "Track": "Heartbreaker",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/c4522db572fa316207364697ecd819f4fc2aa15c?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "36",
+      "Author": "Mariah Carey",
+      "Track": "I Still Believe",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/14be3b056978f45343e23a3c914f4db594f07625?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "37",
+      "Author": "98 Degrees",
+      "Track": "The Hardest Thing",
+      "Original Genres": [
+        "boy band",
+        "dance pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "38",
+      "Author": "LFO",
+      "Track": "Summer Girls",
+      "Original Genres": [
+        "boy band"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/0986ff170e2a1bbd8f85d4fa8fddc46c3d5286d6?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "39",
+      "Author": "Jay-Z feat. Amil (Of Major Coinz) and Ja",
+      "Track": "Can I Get A…",
+      "Original Genres": [
+        "east coast hip hop",
+        "hip hop",
+        "pop rap",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "40",
+      "Author": "Third Eye Blind",
+      "Track": "Jumper",
+      "Original Genres": [
+        "alternative rock",
+        "neo mellow",
+        "pop rock",
+        "post-grunge",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/16904dfcaeb1034c44d0816fd5a09300a0adf3cf?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "41",
+      "Author": "Lauryn Hil",
+      "Track": "l",
+      "Original Genres": [
+        "conscious hip hop",
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "new jersey rap",
+        "pop",
+        "r&b",
+        "soul",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/f91858bdae13124834a3519b9e5271747c55585e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "42",
+      "Author": "Lou Bega",
+      "Track": "Mambo No. 5 (A Little Bit Of…)",
+      "Original Genres": [
+        "latin pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/9d4b70e65834b7f7f78e42d1cfc070c827ab0951?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "43",
+      "Author": "Tyrese",
+      "Track": "Sweet Lady",
+      "Original Genres": [
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/527ce266c4f26406cf32892b4b31014df0151f52?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "44",
+      "Author": "Whitney Houston",
+      "Track": "It’s Not Right But It’s Okay",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/71354192824c7a25fa9e0903f40d0cee359e1c68?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "45",
+      "Author": "‘N Sync",
+      "Track": "(God Must Have Spent) A Little More Time On You",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/2dd697344c3707332a6039e29f3c4a722499de4a?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "46",
+      "Author": "Shawn Mullins",
+      "Track": "Lullaby",
+      "Original Genres": [
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/0b909cdc491604d39b819975013ed8739a51dcf3?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "47",
+      "Author": "112 feat. Lil’Z",
+      "Track": "Anywhere",
+      "Original Genres": [
+        "atl hip hop",
+        "boy band",
+        "dance pop",
+        "gangster rap",
+        "hip pop",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/047d34f23f5dc7c5bbbad831f5bbf0bbaece8ac8?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "48",
+      "Author": "K-Ci and JoJo",
+      "Track": "Tell Me It’s Real",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "49",
+      "Author": "Matchbox 20",
+      "Track": "Back 2 Good",
+      "Original Genres": [
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/132d0102e0776ae0f0057fd8a2095925baba166e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "50",
+      "Author": "Blaque",
+      "Track": "808",
+      "Original Genres": [
+        "girl group",
+        "hip pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/c825384d87aae4feb95b025c41a7ad45c5a1f295?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "51",
+      "Author": "Tal Bachman",
+      "Track": "She’s So High",
+      "Original Genres": [
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/4554c4f666f713acc1508fdd8f24c709f21e5fe8?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "52",
+      "Author": "Ricky Martin",
+      "Track": "She’s All I Ever Had",
+      "Original Genres": [
+        "dance pop",
+        "latin",
+        "latin pop",
+        "mexican pop",
+        "puerto rican pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/2525f68cb9bb64bee5a09876f6ffbfc22840634f?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "53",
+      "Author": "Will Smith",
+      "Track": "Miami",
+      "Original Genres": [
+        "hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/fabc6695056c4b63938190df123de6d33b193478?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "54",
+      "Author": "Jewel",
+      "Track": "Hands",
+      "Original Genres": [
+        "alaska indie",
+        "lilith",
+        "permanent wave",
+        "pop rock",
+        "singer-songwriter"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/513e95327d545084a7b22ace3b187d5a30130a7e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "55",
+      "Author": "JT Money feat. Sole",
+      "Track": "Who Dat",
+      "Original Genres": [
+        "dirty south rap",
+        "miami hip hop",
+        "southern hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "56",
+      "Author": "Tim McGraw",
+      "Track": "Please Remember Me",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/b233877e71f3619ec3e2590cf9cdfb4770b14deb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "57",
+      "Author": "Shania Twain",
+      "Track": "From This Moment On",
+      "Original Genres": [
+        "canadian country",
+        "canadian pop",
+        "country",
+        "country dawn",
+        "dance pop"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "58",
+      "Author": "Faith Evans",
+      "Track": "Love Like This",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/30ccce7de37ac5b3a3ccc80ab19e4d5ad91d2762?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "59",
+      "Author": "Jesse Powell",
+      "Track": "You",
+      "Original Genres": [
+        "new jack swing",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "r&b",
+      "Sample": null
+    },
+    {
+      "Position": "60",
+      "Author": "Total feat. Missy Elliott",
+      "Track": "Trippin’",
+      "Original Genres": [
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/45130ccfa14c21822471c3a1dc0db1d3c35549a9?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "61",
+      "Author": "Silk",
+      "Track": "If You (Lovin’ Me)",
+      "Original Genres": [
+        "edm",
+        "house"
+      ],
+      "Generalized Genre": [
+        "house",
+        "electronic",
+        "trance"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/5023e231e61761ecce2a3adb87143d276e9aef92?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "62",
+      "Author": "Lauryn Hill",
+      "Track": "Ex-Factor",
+      "Original Genres": [
+        "conscious hip hop",
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "new jersey rap",
+        "pop",
+        "r&b",
+        "soul",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/ef5750898e63b9c1dd6d7ac18feee2abaf5fedfb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "63",
+      "Author": "Jordan Knight",
+      "Track": "Give It To You",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "64",
+      "Author": "Goo Goo Dolls",
+      "Track": "Black Balloon",
+      "Original Genres": [
+        "alternative rock",
+        "neo mellow",
+        "permanent wave",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/abd046593c3a4ed0cb384f9a7f3a0246b9801e9a?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "65",
+      "Author": "Eric Benet feat. Tamia",
+      "Track": "Spend My Life With You",
+      "Original Genres": [
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "soul",
+      "Sample": "https://p.scdn.co/mp3-preview/0ea395eda627aa1fd4dedb505f5e3b820e2780b8?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "66",
+      "Author": "Dru Hill",
+      "Track": "These Are The Times",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "67",
+      "Author": "Mark Chesnutt",
+      "Track": "I Don’t Want To Miss A Thing",
+      "Original Genres": [
+        "country",
+        "country road",
+        "country rock"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "68",
+      "Author": "98 Degrees",
+      "Track": "I Do (Cherish You)",
+      "Original Genres": [
+        "boy band",
+        "dance pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "69",
+      "Author": "98 Degrees",
+      "Track": "Because Of You",
+      "Original Genres": [
+        "boy band",
+        "dance pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "70",
+      "Author": "Sarah McLachlan",
+      "Track": "I Will Remember You (Live)",
+      "Original Genres": [
+        "canadian pop",
+        "canadian singer-songwriter",
+        "ectofolk",
+        "folk",
+        "lilith",
+        "neo mellow",
+        "new wave pop",
+        "permanent wave",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/251bea9a9b224be8b90e7f35beda2eb07a1e185b?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "71",
+      "Author": "Chante Moore",
+      "Track": "Chante’s Got A Man",
+      "Original Genres": [
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "72",
+      "Author": "Case",
+      "Track": "Happily Ever After",
+      "Original Genres": [
+        "texas country"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "73",
+      "Author": "Whitney Houston",
+      "Track": "My Love Is Your Love",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/9d0643ac1bee2e8cd7ca04370c6fba8752c16b25?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "74",
+      "Author": "Faith Evans feat. Puff Daddy",
+      "Track": "All Night Long",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/77aa9790a43b517e63b7656ed7c765c7b4166f1b?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "75",
+      "Author": "Juvenile feat. Mannie Fresh and Lil’ Wayne",
+      "Track": "Back That Thang Up",
+      "Original Genres": [
+        "bounce",
+        "crunk",
+        "dirty south rap",
+        "gangster rap",
+        "hip hop",
+        "new orleans rap",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "trap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "76",
+      "Author": "Brandy",
+      "Track": "Almost Doesn’t Count",
+      "Original Genres": [
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/105cc987313a718763e63f8941c6dc29312e6fb3?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "77",
+      "Author": "Shania Twain",
+      "Track": "Man! I Feel Like A Woman!",
+      "Original Genres": [
+        "canadian country",
+        "canadian pop",
+        "country",
+        "country dawn",
+        "dance pop"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "78",
+      "Author": "Len",
+      "Track": "Steal My Sunshine",
+      "Original Genres": [
+        "canadian pop",
+        "dance pop",
+        "electropop",
+        "pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/b7084abce98a790b833d0bb6691aed056101bf68?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "79",
+      "Author": "Marc Anthony",
+      "Track": "I Need To Know",
+      "Original Genres": [
+        "latin",
+        "latin pop",
+        "modern salsa",
+        "salsa",
+        "tropical"
+      ],
+      "Generalized Genre": "latin",
+      "Sample": "https://p.scdn.co/mp3-preview/66403c1f00e40679fac7e127c076e30abdfe604e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "80",
+      "Author": "Ginuwine",
+      "Track": "So Anxious",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "r&b",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/9311165c7c96c9c822ac1522c25234b5eea761ba?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "81",
+      "Author": "Case and Joe",
+      "Track": "Faded Pictures",
+      "Original Genres": [
+        "texas country"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "82",
+      "Author": "Brian McKnight",
+      "Track": "Back At One",
+      "Original Genres": [
+        "dance pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "83",
+      "Author": "R. Kelly",
+      "Track": "When A Woman’s Fed Up",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/6b76338f91f5ea0e736a7b4edfef9f41e5eca718?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "84",
+      "Author": "Kenny Chesney",
+      "Track": "How Forever Feels",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/53e2b795c9005d82de61565ad469c56f593980e1?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "85",
+      "Author": "Lonestar",
+      "Track": "Amazed",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/bb4ee2780b56e9bee2fbdd462227cb18a8bebddf?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "86",
+      "Author": "Britney Spears",
+      "Track": "Sometimes",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/66534231ccdd99619485b6ea4fa90987322dd812?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "87",
+      "Author": "Mo Thugs Family feat. Bone Thugs-N-Harmony",
+      "Track": "Ghetto Cowboy",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/2dd850acf187050bfba579304347243ff4688e2f?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "88",
+      "Author": "Fastball",
+      "Track": "Out Of My Head",
+      "Original Genres": [
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "89",
+      "Author": "Jay-Z",
+      "Track": "Hard Knock Life (Ghetto Anthem)",
+      "Original Genres": [
+        "east coast hip hop",
+        "hip hop",
+        "pop rap",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "90",
+      "Author": "Naughty By Nature feat. Zhane",
+      "Track": "Jamboree",
+      "Original Genres": [
+        "east coast hip hop",
+        "gangster rap",
+        "hardcore hip hop",
+        "hip hop",
+        "hip pop",
+        "new jersey rap",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/6060b4ae12603cde9b254829847600a0cc22a5a5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "91",
+      "Author": "BLACKstreet and Mya feat. Mase and Blinky Blink",
+      "Track": "Take Me There",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "rap",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "92",
+      "Author": "Joey McIntyre",
+      "Track": "Stay The Same",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/c10abb691cd5f47803ac5df94b4c01bc813b81ad?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "93",
+      "Author": "Jo Dee Messina",
+      "Track": "Lesson In Leavin’",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/0070492bc18bec27c88f0f1bd5e8f3c8e7e532c7?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "94",
+      "Author": "Goo Goo Dolls",
+      "Track": "Iris",
+      "Original Genres": [
+        "alternative rock",
+        "neo mellow",
+        "permanent wave",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/0e87ade9fa869e31b3c32115c2c10ee8fa522c81?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "95",
+      "Author": "Puff Daddy feat. R. Kelly",
+      "Track": "Satisfy You",
+      "Original Genres": [
+        "dance pop",
+        "east coast hip hop",
+        "hip hop",
+        "hip pop",
+        "pop rap",
+        "r&b",
+        "rap"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/8b8e7123bcb41d2e90325eb56b8ab40a4bfe08ef?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "96",
+      "Author": "Citizen King",
+      "Track": "Better Days (And The Bottom Drops Out)",
+      "Original Genres": [
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/08995a17996730d88efc94f653789d615654e9d9?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "97",
+      "Author": "N Sync and Gloria Estefan",
+      "Track": "Music Of My Heart",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/b8e8a159e40a386428ef74fb2773c10a5c679d03?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "98",
+      "Author": "George Strait",
+      "Track": "Write This Down",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "99",
+      "Author": "Whitney Houston and Mariah Carey",
+      "Track": "When You Believe",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/5a548d8df9d6c70d09f86795a9a3b98fe89711df?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "100",
+      "Author": "Alabama feat. ‘N Sync",
+      "Track": "God Must Have Spent A Little More Time On You",
+      "Original Genres": [
+        "country",
+        "country road",
+        "country rock"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/b9ff3e543b9d030e0e91b12c35faf52fbcf62ca5?cid=0a639e3cd4e546c885f8201d9b830418"
+    }
+  ],
+  "2000": [
+    {
+      "Position": "1",
+      "Author": "Faith Hill",
+      "Track": "Breathe",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road",
+        "pop rock"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/0b2cda61cb73c04084ff8f669dac6601480b0d24?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "2",
+      "Author": "Santana feat. Rob Thomas",
+      "Track": "Smooth",
+      "Original Genres": [
+        "blues rock",
+        "classic rock",
+        "mexican classic rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/9f977ebb2e695502c8b1d3bd678ef706c9ea4ccb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "3",
+      "Author": "Santana feat. The Product GandB",
+      "Track": "Maria Maria",
+      "Original Genres": [
+        "blues rock",
+        "classic rock",
+        "mexican classic rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/022291c2e79340690b8e8dfd1c6084410fb5aa94?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "4",
+      "Author": "Joe",
+      "Track": "I Wanna Know",
+      "Original Genres": [
+        "conscious hip hop",
+        "gangster rap",
+        "hip hop",
+        "rap",
+        "southern hip hop",
+        "underground hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/2edf856cc617c86cbd1eccf339824bce05d9727f?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "5",
+      "Author": "Vertical Horizon",
+      "Track": "Everything You Want",
+      "Original Genres": [
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/1fdf25d61b20eefe08ad2ed6d1c9cdab497ad36f?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "6",
+      "Author": "Destiny’s Child",
+      "Track": "Say My Name",
+      "Original Genres": [
+        "dance pop",
+        "girl group",
+        "hip pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/26cde6756e631b05cb8b83e99bec8eac00980073?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "7",
+      "Author": "Savage Garden",
+      "Track": "I Knew I Loved You",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/f0cfba5a34f233a8e15af6df8a54b5fbba040429?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "8",
+      "Author": "Lonestar",
+      "Track": "Amazed",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/bb4ee2780b56e9bee2fbdd462227cb18a8bebddf?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "9",
+      "Author": "matchbox twenty",
+      "Track": "Bent",
+      "Original Genres": [
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/025642b3351b17b634d2ded266c4fc66f85a919e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "10",
+      "Author": "Toni Braxton",
+      "Track": "He Wasn’t Man Enough",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/fed45e28b15231bc98e48d3ed96cf6194ac2f549?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "11",
+      "Author": "Creed",
+      "Track": "Higher",
+      "Original Genres": [
+        "album rock",
+        "classic rock",
+        "country rock",
+        "rock",
+        "roots rock",
+        "southern rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "12",
+      "Author": "Aaliyah",
+      "Track": "Try Again",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/c42e159aacd53ce5e5823a3e039c9fe6b557ccf4?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "13",
+      "Author": "Destiny’s Child",
+      "Track": "Jumpin Jumpin’",
+      "Original Genres": [
+        "dance pop",
+        "girl group",
+        "hip pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/900921fe7ea36b001edc1c21f146c4732ff43032?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "14",
+      "Author": "Sisqo",
+      "Track": "Thong Song",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "15",
+      "Author": "3 Doors Down",
+      "Track": "Kryptonite",
+      "Original Genres": [
+        "alternative metal",
+        "nu metal",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "metal",
+      "Sample": null
+    },
+    {
+      "Position": "16",
+      "Author": "Pink",
+      "Track": "There You Go",
+      "Original Genres": [
+        "album rock",
+        "art rock",
+        "classic rock",
+        "progressive rock",
+        "psychedelic rock",
+        "rock",
+        "symphonic rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/e4194964af448ce3774ef9b4325287722d7cfad0?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "17",
+      "Author": "Madonna",
+      "Track": "Music",
+      "Original Genres": [
+        "dance pop",
+        "pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/0405c9c1f25ee9a7815432862ac4d5958c2ecdbd?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "18",
+      "Author": "Janet",
+      "Track": "Doesn’t Really Matter",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "19",
+      "Author": "Christina Aguilera",
+      "Track": "What A Girl Wants",
+      "Original Genres": [
+        "dance pop",
+        "europop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/43ace19343c5c73a4ebe1360f38377f996e35ab5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "20",
+      "Author": "Brian McKnight",
+      "Track": "Back At One",
+      "Original Genres": [
+        "dance pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "21",
+      "Author": "‘N Sync",
+      "Track": "Bye Bye Bye",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/72b91cb27fac7beb50a2deffdd8b821fba5ba950?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "22",
+      "Author": "Marc Anthony",
+      "Track": "You Sang To Me",
+      "Original Genres": [
+        "latin",
+        "latin pop",
+        "modern salsa",
+        "salsa",
+        "tropical"
+      ],
+      "Generalized Genre": "latin",
+      "Sample": "https://p.scdn.co/mp3-preview/49150c3b02b1d266289494107a93dec13c2c1667?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "23",
+      "Author": "Marc Anthony",
+      "Track": "I Need To Know",
+      "Original Genres": [
+        "latin",
+        "latin pop",
+        "modern salsa",
+        "salsa",
+        "tropical"
+      ],
+      "Generalized Genre": "latin",
+      "Sample": "https://p.scdn.co/mp3-preview/66403c1f00e40679fac7e127c076e30abdfe604e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "24",
+      "Author": "Montell Jordan",
+      "Track": "Get It On Tonite",
+      "Original Genres": [
+        "hip hop",
+        "hip pop",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "25",
+      "Author": "Sisqo",
+      "Track": "Incomplete",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "26",
+      "Author": "Macy Gray",
+      "Track": "I Try",
+      "Original Genres": [
+        "neo soul",
+        "pop rock",
+        "soul"
+      ],
+      "Generalized Genre": "soul",
+      "Sample": "https://p.scdn.co/mp3-preview/0da0587ee18e06568e31a8e54229e231073024df?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "27",
+      "Author": "‘N Sync",
+      "Track": "It’s Gonna Be Me",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/b3d911caaa86d803886669dfb939f1940a8d99f5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "28",
+      "Author": "Celine Dion",
+      "Track": "That’s The Way It Is",
+      "Original Genres": [
+        "canadian pop",
+        "dance pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/4576c3aca55447ffbc9be95a8b7f68b7c5ff2145?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "29",
+      "Author": "Nelly",
+      "Track": "(Hot S**T) Country Grammar",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "30",
+      "Author": "Blaque",
+      "Track": "Bring It All To Me",
+      "Original Genres": [
+        "girl group",
+        "hip pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/1e0feb51afb0b37335c6f986d5fe19bd249d32ac?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "31",
+      "Author": "Backstreet Boys",
+      "Track": "Show Me The Meaning Of Being Lonely",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/cfed9c2d2d5e507ec4e91018fbd8a8ba281e9c70?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "32",
+      "Author": "Missy Elliott feat. Nas, EVE and Q-Tip",
+      "Track": "Hot Boyz",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/dee465c0f48a41725473cac6843462e57469122d?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "33",
+      "Author": "BBMak",
+      "Track": "Back Here",
+      "Original Genres": [
+        "boy band",
+        "dance pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "34",
+      "Author": "Sonique",
+      "Track": "It Feels So Good",
+      "Original Genres": [
+        "vocal house"
+      ],
+      "Generalized Genre": [
+        "house",
+        "electronic",
+        "trance"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/6af366cd83cbc4938e1da594ac01cdfc046bdd2d?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "35",
+      "Author": "Nine Days",
+      "Track": "Absolutely (Story Of A Girl)",
+      "Original Genres": [
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/64725a43783317af0c8047a5fe5bea769c12a935?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "36",
+      "Author": "Creed",
+      "Track": "With Arms Wide Open",
+      "Original Genres": [
+        "album rock",
+        "classic rock",
+        "country rock",
+        "rock",
+        "roots rock",
+        "southern rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "37",
+      "Author": "Enrique Iglesias",
+      "Track": "Be With You",
+      "Original Genres": [
+        "dance pop",
+        "latin",
+        "latin pop",
+        "mexican pop",
+        "pop",
+        "tropical"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "38",
+      "Author": "Christina Aguilera",
+      "Track": "Come On Over Baby (All I Want Is You)",
+      "Original Genres": [
+        "dance pop",
+        "europop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/3e157a2bc80b66474fe111ded3a7dec6a68a0160?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "39",
+      "Author": "Ruff Endz",
+      "Track": "No More",
+      "Original Genres": [
+        "new jack swing",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "r&b",
+      "Sample": "https://p.scdn.co/mp3-preview/59b121f5c1587af4dc1eb3f58babd067a98afc50?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "40",
+      "Author": "Blink 182",
+      "Track": "All The Small Things",
+      "Original Genres": [
+        "pop punk",
+        "punk",
+        "socal pop punk"
+      ],
+      "Generalized Genre": "punk",
+      "Sample": null
+    },
+    {
+      "Position": "41",
+      "Author": "Faith Hill",
+      "Track": "The Way You Love Me",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road",
+        "pop rock"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/d5199c99b4ebe9490bde1163f61bb8c300a922fd?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "42",
+      "Author": "Christina Aguilera",
+      "Track": "I Turn To You",
+      "Original Genres": [
+        "dance pop",
+        "europop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/8d6fb1c5b32f32cccf8e4ef7e2614c94b97d2e8e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "43",
+      "Author": "Third Eye Blind",
+      "Track": "Never Let You Go",
+      "Original Genres": [
+        "alternative rock",
+        "neo mellow",
+        "pop rock",
+        "post-grunge",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/1176dc40a5bfbad5d27365754f3a489fbe76707a?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "44",
+      "Author": "LeAnn Rimes",
+      "Track": "I Need You",
+      "Original Genres": [
+        "country",
+        "country dawn",
+        "dance pop",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/ac0569c1d80c03adb6c105d3bfb6c2fe0cde715d?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "45",
+      "Author": "Mariah Carey feat. Joe and 98 Degrees",
+      "Track": "Thank God I Found You",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/0c1de62f56b190e8a82422fb131fcf0c2a8a42a6?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "46",
+      "Author": "Jagged Edge",
+      "Track": "Let’s Get Married",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/40a77dfe01a671e27b1a94e99e79204d8c7cf1f3?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "47",
+      "Author": "Whitney Houston",
+      "Track": "My Love Is Your Love",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/9d0643ac1bee2e8cd7ca04370c6fba8752c16b25?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "48",
+      "Author": "Smash Mouth",
+      "Track": "Then The Morning Comes",
+      "Original Genres": [
+        "alternative rock",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "49",
+      "Author": "iffel 65",
+      "Track": "Blue (Da Ba Dee)",
+      "Original Genres": null,
+      "Generalized Genre": null,
+      "Sample": null
+    },
+    {
+      "Position": "50",
+      "Author": "Sting feat. Cheb Mami",
+      "Track": "Desert Rose",
+      "Original Genres": [
+        "permanent wave",
+        "soft rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "51",
+      "Author": "Eminem",
+      "Track": "The Real Slim Shady",
+      "Original Genres": [
+        "detroit hip hop",
+        "g funk",
+        "hip hop",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "52",
+      "Author": "Pink",
+      "Track": "Most Girls",
+      "Original Genres": [
+        "album rock",
+        "art rock",
+        "classic rock",
+        "progressive rock",
+        "psychedelic rock",
+        "rock",
+        "symphonic rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/168ee65d4b0238847241604fb36cf70bd1a33c16?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "53",
+      "Author": "Next",
+      "Track": "Wifey",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "minneapolis sound",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/39c455043cbd24e259947e9efe7cb5a5e2ea73c6?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "54",
+      "Author": "Everclear",
+      "Track": "Wonderful",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "permanent wave",
+        "pop rock",
+        "post-grunge",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "55",
+      "Author": "Britney Spears",
+      "Track": "Oops!… I Did It Again",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/7fb86827422540ad01f65870375fef055412f034?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "56",
+      "Author": "Jessica Simpson",
+      "Track": "I Wanna Love You Forever",
+      "Original Genres": [
+        "dance pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/377e4dc3bb3bf5edf34ff772b72c65f39669e44e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "57",
+      "Author": "98 Degrees",
+      "Track": "Give Me Just One Night (Una Noche )",
+      "Original Genres": [
+        "boy band",
+        "dance pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "58",
+      "Author": "Filter",
+      "Track": "Take A Picture",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "grunge",
+        "industrial metal",
+        "industrial rock",
+        "nu metal",
+        "post-grunge",
+        "rap rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/26ef7a6fe5831d075ab585eda3f1ef6900d45987?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "59",
+      "Author": "Red Hot Chili Peppers",
+      "Track": "Otherside",
+      "Original Genres": [
+        "alternative rock",
+        "funk metal",
+        "funk rock",
+        "permanent wave",
+        "post-grunge",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/3dfe48540e8c8b3a4b3434837952a3aa5b9291e9?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "60",
+      "Author": "Jay-Z feat. UGK",
+      "Track": "Big Pimpin’",
+      "Original Genres": [
+        "east coast hip hop",
+        "hip hop",
+        "pop rap",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "61",
+      "Author": "Son By Four",
+      "Track": "Purest Of Pain (A Puro Dolor)",
+      "Original Genres": [
+        "alternative r&b",
+        "trap soul"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/1f61ebb77634a5c9a64d94ac0dc05a3a7f51beb2?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "62",
+      "Author": "Jagged Edge",
+      "Track": "He Can’t Love U",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/886a89a2b6f626120a5541d413c4539318f9944c?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "63",
+      "Author": "Avant",
+      "Track": "Separated",
+      "Original Genres": [
+        "dance pop",
+        "deep pop r&b",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "64",
+      "Author": "Carl Thomas",
+      "Track": "I Wish",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/0ba45ca6da9f7e2000a5ab4bb42d58da9ede70c0?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "65",
+      "Author": "Donell Jones",
+      "Track": "U Know What’s Up",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/c56fbcc782e2c65a0a82f991a2d91afca34b2c57?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "66",
+      "Author": "SoulDecision feat. Thrust",
+      "Track": "Faded",
+      "Original Genres": null,
+      "Generalized Genre": null,
+      "Sample": "https://p.scdn.co/mp3-preview/6ae527ceff5bc4bc3b26841559a47efbda4d9f12?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "67",
+      "Author": "Kid Rock",
+      "Track": "Only God Knows Why",
+      "Original Genres": [
+        "alternative metal",
+        "nu metal",
+        "post-grunge"
+      ],
+      "Generalized Genre": "metal",
+      "Sample": "https://p.scdn.co/mp3-preview/63872edfb2832220f4183fc652376bb0113620a7?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "68",
+      "Author": "Mystikal",
+      "Track": "Shake Ya Ass",
+      "Original Genres": [
+        "crunk",
+        "dirty south rap",
+        "gangster rap",
+        "new orleans rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/ed56ecdf6afc5d6d6d3c3753191b805942ecca97?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "69",
+      "Author": "Erykah Badu",
+      "Track": "Bag Lady",
+      "Original Genres": [
+        "afrofuturism",
+        "hip hop",
+        "neo soul",
+        "r&b",
+        "soul",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "soul",
+      "Sample": null
+    },
+    {
+      "Position": "70",
+      "Author": "Train",
+      "Track": "Meet Virginia",
+      "Original Genres": [
+        "dance pop",
+        "neo mellow",
+        "pop",
+        "pop rock",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/524ce59e1f27102f030737c2d2630024afe77a5e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "71",
+      "Author": "DMX",
+      "Track": "Party Up (Up In Here)",
+      "Original Genres": [
+        "east coast hip hop",
+        "gangster rap",
+        "hardcore hip hop",
+        "hip hop",
+        "pop rap",
+        "rap",
+        "southern hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/cc8aa9b9a1c29177f19e729b3f2c239c61ac8102?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "72",
+      "Author": "Mya",
+      "Track": "Case Of The Ex (Whatcha Gonna Do)",
+      "Original Genres": [
+        "dance pop",
+        "deep pop r&b",
+        "hip pop",
+        "neo soul",
+        "pop",
+        "pop rap",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "73",
+      "Author": "Dr. Dre feat. Eminem",
+      "Track": "Forget About Dre",
+      "Original Genres": [
+        "g funk",
+        "gangster rap",
+        "hip hop",
+        "rap",
+        "west coast rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/61ddbf6376cb88c7c4e75c416769e075ac141ee7?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "74",
+      "Author": "Jo Dee Messina",
+      "Track": "That’s The Way",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/8e32074237959147c3f309f9e6e7d61d7b9956bb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "75",
+      "Author": "Westlife",
+      "Track": "Swear It Again",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/73378154b0e8508b95d1845575f1b34c75b66c64?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "76",
+      "Author": "Dr. Dre feat. Snoop Dogg",
+      "Track": "The Next Episode",
+      "Original Genres": [
+        "g funk",
+        "gangster rap",
+        "hip hop",
+        "rap",
+        "west coast rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "77",
+      "Author": "Britney Spears",
+      "Track": "From The Bottom Of My Broken Heart",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/5de1dfffc6caeda119b2cb1c8dff43ee14724ea9?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "78",
+      "Author": "Savage Garden",
+      "Track": "Crash And Burn",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/4c54618dd8791a30f4c661055db24b0f2b4d4928?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "79",
+      "Author": "Chad Brock",
+      "Track": "Yes!",
+      "Original Genres": [
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/04649a55893ffd46fe70789524f5b4dfd51d0040?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "80",
+      "Author": "George Strait",
+      "Track": "The Best Day",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "81",
+      "Author": "Donell Jones",
+      "Track": "Where I Wanna Be",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/dba288fa2941bcbf369f7daa6ba45c00a9681e13?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "82",
+      "Author": "Toby Keith",
+      "Track": "How Do You Like Me Now?!",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road",
+        "oklahoma country"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "83",
+      "Author": "Tim McGraw",
+      "Track": "My Best Friend",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/0254d467da95cf57ac9fd30229c76833f9e2f420?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "84",
+      "Author": "Goo Goo Dolls",
+      "Track": "Broadway",
+      "Original Genres": [
+        "alternative rock",
+        "neo mellow",
+        "permanent wave",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/68c280c3b3136f7795cc1309e5a12b2b2bf10d59?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "85",
+      "Author": "Da Brat feat. Tyrese",
+      "Track": "What’chu Like",
+      "Original Genres": [
+        "chicago rap",
+        "gangster rap",
+        "hip hop",
+        "hip pop",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "rap",
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/99a7541978710edc438544b40e6d5031ba876821?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "86",
+      "Author": "Kandi",
+      "Track": "Don’t Think I’m Not",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/f2d5c9d576c392f5222e0e5d17d176889f58a1ba?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "87",
+      "Author": "Lee Ann Womack and Sons Of The Desert",
+      "Track": "I Hope You Dance",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "88",
+      "Author": "Alice Deejay",
+      "Track": "Better Off Alone",
+      "Original Genres": [
+        "eurodance",
+        "europop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/d8584a5491bac67457d04f641071c4c65d76c603?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "89",
+      "Author": "Debelah Morgan",
+      "Track": "Dance With Me",
+      "Original Genres": [
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/e669ade508848cca27f872eb908eb35f69449684?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "90",
+      "Author": "Lonestar",
+      "Track": "What About Now",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/5e680e8a94abcba44991ca26f0fd686661567b07?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "91",
+      "Author": "Sammie",
+      "Track": "I Like It",
+      "Original Genres": [
+        "alternative r&b",
+        "deep pop r&b",
+        "hip pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "92",
+      "Author": "Kevon Edmonds",
+      "Track": "24/7",
+      "Original Genres": [
+        "new jack swing",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "r&b",
+      "Sample": "https://p.scdn.co/mp3-preview/65c448a27a877a8d9370efff5fbb29ab9e0ef273?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "93",
+      "Author": "LFO",
+      "Track": "Girl On TV",
+      "Original Genres": [
+        "boy band"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/3adedb938e69ea73940e5f7d3c42a5bcd734d358?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "94",
+      "Author": "Lil Bow Wow feat. Xscape",
+      "Track": "Bounce With Me",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "pop",
+        "pop rap",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/8629f1d4c74ef6d5e9a8e07c8db4501505d57291?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "95",
+      "Author": "Dixie Chicks",
+      "Track": "Cowboy Take Me Away",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/cc237b987e1e9c335aebdb07be4358af6a55f258?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "96",
+      "Author": "Aaliyah",
+      "Track": "I Don’t Wanna",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "97",
+      "Author": "Destiny’s Child",
+      "Track": "Independent Women Part I",
+      "Original Genres": [
+        "dance pop",
+        "girl group",
+        "hip pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/f07461d537b635a221ffcae3ddef1d9c736429a5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "98",
+      "Author": "Samantha Mumba",
+      "Track": "Gotta Tell You",
+      "Original Genres": [
+        "bubblegum dance",
+        "dance pop",
+        "europop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "99",
+      "Author": "Jennifer Lopez",
+      "Track": "Waiting For Tonight",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/56b256ca079ce0f979ff7a57e1cd8f5ea37ce6c5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "100",
+      "Author": "Mary Mary",
+      "Track": "Shackles (Praise You)",
+      "Original Genres": [
+        "gospel",
+        "gospel r&b",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "r&b",
+      "Sample": "https://p.scdn.co/mp3-preview/19566deed7192b63f3634d8954e1c71da0bbda1c?cid=0a639e3cd4e546c885f8201d9b830418"
+    }
+  ],
+  "2001": [
+    {
+      "Position": "1",
+      "Author": "Lifehouse",
+      "Track": "Hanging By A Moment",
+      "Original Genres": [
+        "alternative metal",
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "2",
+      "Author": "Alicia Keys",
+      "Track": "Fallin’",
+      "Original Genres": [
+        "hip pop",
+        "neo soul",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/b3dea0edd6e1e3a122f11903463de8d2d9ff3044?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "3",
+      "Author": "Janet",
+      "Track": "All For You",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "4",
+      "Author": "Train",
+      "Track": "Drops Of Jupiter (Tell Me)",
+      "Original Genres": [
+        "dance pop",
+        "neo mellow",
+        "pop",
+        "pop rock",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/331657df9864d28a0effcf94691bc33cc225e4be?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "5",
+      "Author": "Jennifer Lopez feat. Ja Rule",
+      "Track": "I’m Real",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/e2ef72a701d40fae1435a60dd5a92defaeb0c0fe?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "6",
+      "Author": "matchbox twenty",
+      "Track": "If You’re Gone",
+      "Original Genres": [
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/3849123347067581d321d21fa6598310603d33a5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "7",
+      "Author": "Eve feat. Gwen Stefani",
+      "Track": "Let Me Blow Ya Mind",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "philly rap",
+        "pop rap",
+        "r&b",
+        "rap",
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "8",
+      "Author": "Dido",
+      "Track": "Thank You",
+      "Original Genres": [
+        "dance pop",
+        "new wave pop",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/f8472f573d8b9ff945ec43fea28d3e3769fa3237?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "9",
+      "Author": "Lenny Kravitz",
+      "Track": "Again",
+      "Original Genres": [
+        "permanent wave",
+        "pop rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "10",
+      "Author": "Destiny’s Child",
+      "Track": "Independent Women Part I",
+      "Original Genres": [
+        "dance pop",
+        "girl group",
+        "hip pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/f07461d537b635a221ffcae3ddef1d9c736429a5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "11",
+      "Author": "Blu Cantrell",
+      "Track": "Hit ‘Em Up Style (Oops!)",
+      "Original Genres": [
+        "hip pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/4092cfc0c24ac51a2f917e40b45524738d910c9f?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "12",
+      "Author": "Shaggy feat. Ricardo “RikRok” Ducent",
+      "Track": "It Wasn’t Me",
+      "Original Genres": [
+        "dance pop",
+        "pop rap",
+        "reggae fusion"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "13",
+      "Author": "Joe feat. Mystikal",
+      "Track": "Stutter",
+      "Original Genres": [
+        "conscious hip hop",
+        "gangster rap",
+        "hip hop",
+        "rap",
+        "southern hip hop",
+        "underground hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/4b3072ec1485bbb1c87a4568cd6e903917293d48?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "14",
+      "Author": "Staind",
+      "Track": "It’s Been Awhile",
+      "Original Genres": [
+        "alternative metal",
+        "nu metal",
+        "post-grunge",
+        "rap rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/7c98137672d37068f9081aff2c5031d91dff772d?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "15",
+      "Author": "Usher",
+      "Track": "U Remind Me",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/b94b8fba4179746fbb1f23dd124d1aa076f50131?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "16",
+      "Author": "Jagged Edge With Nelly",
+      "Track": "Where The Party At",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/52ac255bd90c58f9581f62c3a3f68e2a670d1ada?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "17",
+      "Author": "Shaggy feat. Rayvon",
+      "Track": "Angel",
+      "Original Genres": [
+        "dance pop",
+        "pop rap",
+        "reggae fusion"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "18",
+      "Author": "Nelly feat. City Spud",
+      "Track": "Ride Wit Me",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "19",
+      "Author": "Uncle Kracker",
+      "Track": "Follow Me",
+      "Original Genres": [
+        "country",
+        "country road",
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/482cf9985443c2e4907eff3c81f1107616a42ef1?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "20",
+      "Author": "112",
+      "Track": "Peaches & Cream",
+      "Original Genres": [
+        "atl hip hop",
+        "boy band",
+        "dance pop",
+        "gangster rap",
+        "hip pop",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "21",
+      "Author": "Incubus",
+      "Track": "Drive",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "funk metal",
+        "funk rock",
+        "modern rock",
+        "nu metal",
+        "pop rock",
+        "post-grunge",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/529519c74312d9a940114264e608f8cbf779628a?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "22",
+      "Author": "City High",
+      "Track": "What Would You Do?",
+      "Original Genres": [
+        "hip pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "23",
+      "Author": "Destiny’s Child",
+      "Track": "Survivor",
+      "Original Genres": [
+        "dance pop",
+        "girl group",
+        "hip pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/c48860e5c7ce2f6a312b6bc4efd16de85ec49216?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "24",
+      "Author": "Christina Aguilera, Lil’ Kim, Mya and Pink",
+      "Track": "Lady Marmalade",
+      "Original Genres": [
+        "dance pop",
+        "europop",
+        "pop",
+        "pop rap",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "25",
+      "Author": "Outkast",
+      "Track": "Ms. Jackson",
+      "Original Genres": [
+        "atl hip hop",
+        "dirty south rap",
+        "hip hop",
+        "pop rap",
+        "rap",
+        "southern hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/36ade9974fa85079e996dd9aca93af62c4e88711?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "26",
+      "Author": "Jennifer Lopez",
+      "Track": "Love Don’t Cost A Thing",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/9ae63e254763bacd003c7042a22fec88527fff7f?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "27",
+      "Author": "Faith Hill",
+      "Track": "The Way You Love Me",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road",
+        "pop rock"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/d5199c99b4ebe9490bde1163f61bb8c300a922fd?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "28",
+      "Author": "Dream",
+      "Track": "He Loves U Not",
+      "Original Genres": [
+        "hip hop",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/b7121e3b7fb20d7f85d4fad7a12a5cc1305e31c3?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "29",
+      "Author": "Crazy Town",
+      "Track": "Butterfly",
+      "Original Genres": [
+        "alternative metal",
+        "funk metal",
+        "nu metal",
+        "post-grunge",
+        "rap rock"
+      ],
+      "Generalized Genre": "metal",
+      "Sample": "https://p.scdn.co/mp3-preview/8bab4427d8ce0fcb58daacaa20d19864554806f1?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "30",
+      "Author": "Ja Rule feat. Lil’ Mo and Vita",
+      "Track": "Put It On Me",
+      "Original Genres": [
+        "dance pop",
+        "east coast hip hop",
+        "gangster rap",
+        "hip hop",
+        "hip pop",
+        "pop rap",
+        "queens hip hop",
+        "rap",
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "31",
+      "Author": "Mary J. Blige",
+      "Track": "Family Affair",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "pop",
+        "pop rap",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "32",
+      "Author": "Lee Ann Womack and Sons Of The Desert",
+      "Track": "I Hope You Dance",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "33",
+      "Author": "Moby feat. Gwen Stefani",
+      "Track": "South Side",
+      "Original Genres": [
+        "downtempo",
+        "electronica"
+      ],
+      "Generalized Genre": [
+        "house",
+        "electronic",
+        "trance"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/fc18ea54d954926d039582e881867d3c0dcd5f80?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "34",
+      "Author": "Madonna",
+      "Track": "Don’t Tell Me",
+      "Original Genres": [
+        "dance pop",
+        "pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/fd3297e74545247887be09d7ee0a5e47affbd622?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "35",
+      "Author": "Missy “Misdemeanor” Elliott",
+      "Track": "Get Ur Freak On",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/1f457544c3da1b40fdd6a899b7ad6fff6f9c7abc?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "36",
+      "Author": "K-Ci and JoJo",
+      "Track": "Crazy",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "37",
+      "Author": "Craig David",
+      "Track": "Fill Me In",
+      "Original Genres": [
+        "british soul",
+        "dance pop",
+        "pop",
+        "pop rap",
+        "r&b",
+        "tropical house",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/4ef7772fe7fb30e9cfac502b74da6344fbded902?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "38",
+      "Author": "Janet",
+      "Track": "Someone To Call My Lover",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "39",
+      "Author": "Creed",
+      "Track": "With Arms Wide Open",
+      "Original Genres": [
+        "album rock",
+        "classic rock",
+        "country rock",
+        "rock",
+        "roots rock",
+        "southern rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "40",
+      "Author": "Mya",
+      "Track": "Case Of The Ex (Whatcha Gonna Do)",
+      "Original Genres": [
+        "dance pop",
+        "deep pop r&b",
+        "hip pop",
+        "neo soul",
+        "pop",
+        "pop rap",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "41",
+      "Author": "O-Town",
+      "Track": "All Or Nothing",
+      "Original Genres": [
+        "boy band",
+        "dance pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/950849d20de9da4d39306fda5f8950d87b6d1e07?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "42",
+      "Author": "Destiny’s Child",
+      "Track": "Bootylicious",
+      "Original Genres": [
+        "dance pop",
+        "girl group",
+        "hip pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/ebd1b6c361b104fbc1f63319193b42c26eb34fca?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "43",
+      "Author": "Nelly Furtado",
+      "Track": "I’m Like A Bird",
+      "Original Genres": [
+        "canadian latin",
+        "canadian pop",
+        "dance pop",
+        "pop",
+        "pop rap",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "44",
+      "Author": "3 Doors Down",
+      "Track": "Kryptonite",
+      "Original Genres": [
+        "alternative metal",
+        "nu metal",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "metal",
+      "Sample": null
+    },
+    {
+      "Position": "45",
+      "Author": "R. Kelly feat. Jay-Z",
+      "Track": "Fiesta",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/5238f714286554ed91896a297f92dbd76aafc901?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "46",
+      "Author": "Sugar Ray",
+      "Track": "When It’s Over",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "funk metal",
+        "neo mellow",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/c9d1e17d85358eea745482c51a0c9b581187948b?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "47",
+      "Author": "Aerosmith",
+      "Track": "Jaded",
+      "Original Genres": [
+        "album rock",
+        "classic rock",
+        "hard rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/25bc1d1616d9538b0fa3e58040cb8d4d03921ee9?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "48",
+      "Author": "Jagged Edge",
+      "Track": "Promise",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "deep pop r&b",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop rap",
+        "quiet storm",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/bed23734c1ff72fa0338e38beecbb4daaeef9811?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "49",
+      "Author": "Case",
+      "Track": "Missing You",
+      "Original Genres": [
+        "texas country"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "50",
+      "Author": "Ginuwine",
+      "Track": "Differences",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "pop",
+        "r&b",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/8416c2531fa2a48001aa979a13b821709b8c164d?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "51",
+      "Author": "‘N Sync",
+      "Track": "This I Promise You",
+      "Original Genres": [
+        "boy band",
+        "dance pop",
+        "europop",
+        "pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/de9b81203d3bba45524a272906701c16ad775daf?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "52",
+      "Author": "Jay-Z",
+      "Track": "Izzo (H.O.V.A.)",
+      "Original Genres": [
+        "east coast hip hop",
+        "hip hop",
+        "pop rap",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "53",
+      "Author": "Lil’ Mo feat. Fabolous",
+      "Track": "Superwoman Pt. II",
+      "Original Genres": [
+        "melodic rap",
+        "rap conscient",
+        "trap",
+        "vapor trap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "54",
+      "Author": "Evan And Jaron",
+      "Track": "Crazy For This Girl",
+      "Original Genres": [
+        "alternative metal",
+        "post-grunge"
+      ],
+      "Generalized Genre": "metal",
+      "Sample": "https://p.scdn.co/mp3-preview/45d8c9b5c18a4f1c994f0d52952ac897c3062be8?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "55",
+      "Author": "Ricky Martin and Christina Aguilera",
+      "Track": "Nobody Wants To Be Lonely",
+      "Original Genres": [
+        "dance pop",
+        "latin",
+        "latin pop",
+        "mexican pop",
+        "puerto rican pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/6a3184ba982c788fd4dd5ccb92f8cfee16cf743a?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "56",
+      "Author": "Jay-Z",
+      "Track": "I Just Wanna Love U (Give It 2 Me)",
+      "Original Genres": [
+        "east coast hip hop",
+        "hip hop",
+        "pop rap",
+        "rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "57",
+      "Author": "Missy “Misdemeanor” Elliott",
+      "Track": "One Minute Man",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/16c246a7ea83a8e3ed68a470ae32af7b014cf9dd?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "58",
+      "Author": "Mystikal feat. Nivea",
+      "Track": "Danger (Been So Long)",
+      "Original Genres": [
+        "crunk",
+        "dirty south rap",
+        "gangster rap",
+        "new orleans rap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/e4536abdfc7437837f0d31e12b43fa6928ab154f?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "59",
+      "Author": "Enya",
+      "Track": "Only Time",
+      "Original Genres": [
+        "celtic",
+        "middle earth"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/7b93d4c8660890bfe0b10718c4530ebaf35d7991?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "60",
+      "Author": "Toya",
+      "Track": "I Do!!",
+      "Original Genres": [
+        "hip pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/dff51c65e89ad1369a939abbbb8afdc027c8239e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "61",
+      "Author": "S Club 7",
+      "Track": "Never Had A Dream Come True",
+      "Original Genres": [
+        "bubblegum dance",
+        "dance pop",
+        "europop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "62",
+      "Author": "Tamia",
+      "Track": "Stranger In My House",
+      "Original Genres": [
+        "canadian pop",
+        "dance pop",
+        "deep pop r&b",
+        "hip pop",
+        "neo soul",
+        "new jack swing",
+        "quiet storm",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/0f146fd4bdd065fa9aa33fc81b1814c7103740f8?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "63",
+      "Author": "Jessica Simpson",
+      "Track": "Irresistible",
+      "Original Genres": [
+        "dance pop",
+        "post-teen pop"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/4acedda3a51782acf1737dd744e8a7df60b240d7?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "64",
+      "Author": "Sunshine Anderson",
+      "Track": "Heard It All Before",
+      "Original Genres": [
+        "hip pop",
+        "neo soul",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/f0337b9aa69056176d68490d1151ae48665320d7?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "65",
+      "Author": "Dave Matthews Band",
+      "Track": "The Space Between",
+      "Original Genres": [
+        "jam band",
+        "neo mellow",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/a497c6c006e733048a85a0418b32573a2b9d7e51?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "66",
+      "Author": "Faith Hill",
+      "Track": "There You’ll Be",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country dawn",
+        "country road",
+        "pop rock"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/444d9999e74b5f212952372208412be2f1e09384?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "67",
+      "Author": "Musiq Soulchild",
+      "Track": "Love",
+      "Original Genres": [
+        "dance pop",
+        "hip pop",
+        "neo soul",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "68",
+      "Author": "112",
+      "Track": "It’s Over Now",
+      "Original Genres": [
+        "atl hip hop",
+        "boy band",
+        "dance pop",
+        "gangster rap",
+        "hip pop",
+        "new jack swing",
+        "pop rap",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/dad203658d8d9c64544caa8c8a8292737b104215?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "69",
+      "Author": "3LW",
+      "Track": "No More (Baby I’ma Do Right)",
+      "Original Genres": [
+        "girl group",
+        "hip pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/b1e0dd7680a00c5945c8fc4e8414c592444c2285?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "70",
+      "Author": "Nelly Furtado",
+      "Track": "Turn Off The Light",
+      "Original Genres": [
+        "canadian latin",
+        "canadian pop",
+        "dance pop",
+        "pop",
+        "pop rap",
+        "pop rock"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "71",
+      "Author": "Brooks and Dunn",
+      "Track": "Ain’t Nothing `Bout You",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/c7ceb4871ee55f4c607b13aa1395f822cee86381?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "72",
+      "Author": "Jennifer Lopez",
+      "Track": "Play",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "pop rap",
+        "post-teen pop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/5588813c9b29b73b7d681148fa0029d5a2176bd2?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "73",
+      "Author": "Lonestar",
+      "Track": "I’m Already There",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/15b6c99a32e3c79acfb5c04a7e4c58f7674163e5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "74",
+      "Author": "Lil’ Romeo",
+      "Track": "My Baby",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "75",
+      "Author": "U2",
+      "Track": "Beautiful Day",
+      "Original Genres": [
+        "irish rock",
+        "permanent wave",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": null
+    },
+    {
+      "Position": "76",
+      "Author": "Blake Shelton",
+      "Track": "Austin",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road",
+        "oklahoma country"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/38fbf1d2a9abab8c51d9767e650e3ef90c9f4de5?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "77",
+      "Author": "Ludacris",
+      "Track": "Southern Hospitality",
+      "Original Genres": [
+        "atl hip hop",
+        "dance pop",
+        "dirty south rap",
+        "hip hop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "trap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "78",
+      "Author": "Tim McGraw",
+      "Track": "Grown Men Don’t Cry",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/f17f92496d7647110a4d19a4d9be22e43e90dbdb?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "79",
+      "Author": "Ja Rule feat. Case",
+      "Track": "Livin’ It Up",
+      "Original Genres": [
+        "dance pop",
+        "east coast hip hop",
+        "gangster rap",
+        "hip hop",
+        "hip pop",
+        "pop rap",
+        "queens hip hop",
+        "rap",
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "80",
+      "Author": "Mariah Carey feat. Cameo",
+      "Track": "Loverboy",
+      "Original Genres": [
+        "dance pop",
+        "pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": "https://p.scdn.co/mp3-preview/3557c09d89c5c888abeb642443e4547ba071690b?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "81",
+      "Author": "Isley Brothers feat. Ronald Isley AKA Mr. Biggs",
+      "Track": "Contagious",
+      "Original Genres": [
+        "classic soul",
+        "disco",
+        "funk",
+        "motown",
+        "quiet storm",
+        "soul",
+        "southern soul"
+      ],
+      "Generalized Genre": "soul",
+      "Sample": null
+    },
+    {
+      "Position": "82",
+      "Author": "Jessica Andrews",
+      "Track": "Who I Am",
+      "Original Genres": [
+        "country",
+        "country dawn"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "83",
+      "Author": "Erick Sermon feat. Marvin Gaye",
+      "Track": "Music",
+      "Original Genres": [
+        "gangster rap",
+        "hardcore hip hop",
+        "hip hop",
+        "hip pop",
+        "rap",
+        "turntablism"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/a2cdac70a092d206e01ed0b83ad8d21af208c7e6?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "84",
+      "Author": "Willa Ford",
+      "Track": "I Wanna Be Bad",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/24b552465910e285df876b3c0da2cfc66531af84?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "85",
+      "Author": "Kenny Chesney",
+      "Track": "Don’t Happen Twice",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/8496f7b024688f9fbcee453f7dd887c0d1962a58?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "86",
+      "Author": "Diamond Rio",
+      "Track": "One More Day",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road",
+        "country rock"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/9cfe5466c0fa5695b6a1ad71f852041ba36fbf1e?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "87",
+      "Author": "R. Kelly",
+      "Track": "I Wish",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/11b26512db1763d0c278f3b5284410150fb8411b?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "88",
+      "Author": "Travis Tritt",
+      "Track": "It’s A Great Day To Be Alive",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road",
+        "country rock",
+        "outlaw country"
+      ],
+      "Generalized Genre": "country",
+      "Sample": "https://p.scdn.co/mp3-preview/67e1eedcad1f20a589a04a0490d9b663184df0aa?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "89",
+      "Author": "Trick Daddy",
+      "Track": "I’m A Thug",
+      "Original Genres": [
+        "crunk",
+        "dirty south rap",
+        "gangster rap",
+        "hip hop",
+        "hip pop",
+        "miami hip hop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "trap"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/b3ad2fc8bcbd07594fe3c8bff48cbbf366ccb157?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "90",
+      "Author": "Eve 6",
+      "Track": "Here’s To The Night",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/5a885377538040ed308c45f4e483757fdc3f4e22?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "91",
+      "Author": "Toby Keith",
+      "Track": "You Shouldn’t Kiss Me Like This",
+      "Original Genres": [
+        "contemporary country",
+        "country",
+        "country road",
+        "oklahoma country"
+      ],
+      "Generalized Genre": "country",
+      "Sample": null
+    },
+    {
+      "Position": "92",
+      "Author": "Eden’s Crush",
+      "Track": "Get Over Yourself",
+      "Original Genres": null,
+      "Generalized Genre": null,
+      "Sample": "https://p.scdn.co/mp3-preview/8b5624836865015294035c8e561724681932e5d7?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "93",
+      "Author": "Debelah Morgan",
+      "Track": "Dance With Me",
+      "Original Genres": [
+        "urban contemporary"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/e669ade508848cca27f872eb908eb35f69449684?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "94",
+      "Author": "Outkast",
+      "Track": "So Fresh, So Clean",
+      "Original Genres": [
+        "atl hip hop",
+        "dirty south rap",
+        "hip hop",
+        "pop rap",
+        "rap",
+        "southern hip hop"
+      ],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": "https://p.scdn.co/mp3-preview/ab0909f2f07868b156e175a0686548c270b1ee31?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "95",
+      "Author": "Nelly",
+      "Track": "E.I.",
+      "Original Genres": [
+        "dance pop",
+        "hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "urban contemporary"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "96",
+      "Author": "3 Doors Down",
+      "Track": "Be Like That",
+      "Original Genres": [
+        "alternative metal",
+        "nu metal",
+        "pop rock",
+        "post-grunge"
+      ],
+      "Generalized Genre": "metal",
+      "Sample": null
+    },
+    {
+      "Position": "97",
+      "Author": "Pink",
+      "Track": "Most Girls",
+      "Original Genres": [
+        "album rock",
+        "art rock",
+        "classic rock",
+        "progressive rock",
+        "psychedelic rock",
+        "rock",
+        "symphonic rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/168ee65d4b0238847241604fb36cf70bd1a33c16?cid=0a639e3cd4e546c885f8201d9b830418"
+    },
+    {
+      "Position": "98",
+      "Author": "QB’s Finest feat. Nas and Braveheart’s",
+      "Track": "Oochie Wally",
+      "Original Genres": [],
+      "Generalized Genre": [
+        "rap",
+        "hip-hop"
+      ],
+      "Sample": null
+    },
+    {
+      "Position": "99",
+      "Author": "Enrique Iglesias",
+      "Track": "Hero",
+      "Original Genres": [
+        "dance pop",
+        "latin",
+        "latin pop",
+        "mexican pop",
+        "pop",
+        "tropical"
+      ],
+      "Generalized Genre": "pop",
+      "Sample": null
+    },
+    {
+      "Position": "100",
+      "Author": "Fuel",
+      "Track": "Hemorrhage (In My Hands)",
+      "Original Genres": [
+        "alternative metal",
+        "alternative rock",
+        "neo mellow",
+        "nu metal",
+        "pop rock",
+        "post-grunge",
+        "rap rock",
+        "rock"
+      ],
+      "Generalized Genre": "rock",
+      "Sample": "https://p.scdn.co/mp3-preview/ce26e53a7954423a5f370df9211b8c50e76c757e?cid=0a639e3cd4e546c885f8201d9b830418"
+    }
+  ]
+}

@@ -20,7 +20,7 @@ def main():
                  "just press ENTER.\n")
     if full:
         adt = MusicADT(1940, 2016, fullmode=full)
-        adt.fill_adt()
+        adt.fill_adt("../docs/results.json")
         print("First, searching by track.")
 
         print("Enter the name of the track you want to find. "
@@ -34,6 +34,7 @@ def main():
         adt.genre_search(genre)
 
         print("\n\n\nNow the graphic time.")
+        sleep(5)
         adt.graph()
     else:
         low = int(input("Enter lower year you are aiming for (1940 - 2016).\n"))
@@ -42,7 +43,7 @@ def main():
             low = int(input("Enter lower year bound you are aiming for (1940 - 2016).\n"))
             high = int(input("Enter higher year bound you are aiming for (1940 - 2016).\n"))
         adt = MusicADT(low, high)
-        adt.fill_adt()
+        adt.fill_adt("../docs/results.json")
     print("\n\n\nNow enter the year(1940-2016 if fullmode, your bounds otherwise). You will get "
           "the top trending genre of that year.")
     year = int(input())
