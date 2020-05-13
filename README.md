@@ -1,8 +1,6 @@
-# Project Name: UCU SEMESTER TASK: Spotify API
+# Project Name: UCU SEMESTER TASK: Spotify Genres
 ![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/logo.png)
-Welcome to the Martian Weather Project.
-
-Here you can check the web app: [Spotify Genre Popularity Project]()
+Welcome to the Spotify Genres Project
 
 ## Description: 
 The Spotify Genre Popularity Project uses Spotify Developer Tool: Spotify API to provide users with such information as:
@@ -18,9 +16,9 @@ Project is implemented using Python, Python OOP, abstract data types and structu
 All the information about the process of developing and research is available on the project's wiki.
 ## Contents:
 ### Main modules:
-[main.py](https://github.com/dariaomelkina/UCU-Semester-Homework/blob/master/modules/main.py) –– main module with the actual program.
+[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
 
-[adt_weather_data.py](https://github.com/dariaomelkina/UCU-Semester-Homework/blob/master/modules/adt_weather_data.py) –– module with ADT Weather Data Container.
+[music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/music_adt.py) –– module with Music ADT.
 
 [list.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/list.py) –– module with list data structure.
 
