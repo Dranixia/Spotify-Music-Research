@@ -88,7 +88,7 @@ demonstrates, which data can be get with that Spotify API).
 They are located in the 'examples' folder. 
 
 ## Example:
-![]()
+![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/example.json)
 
 ## Credits: 
 - Butynets' Danylo, Ukrainian Catholic University, 2020
