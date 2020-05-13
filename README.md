@@ -1,5 +1,5 @@
 # Project Name: UCU SEMESTER TASK: Spotify API
-![]()
+![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/logo.png)
 Welcome to the Martian Weather Project.
 
 Here you can check the web app: [Spotify Genre Popularity Project]()
