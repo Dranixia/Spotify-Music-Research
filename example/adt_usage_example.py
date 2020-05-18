@@ -1,7 +1,7 @@
 # import class from the module
 import json
-from music_adt import MusicADT
-from dictionary import Dict
+from ..music_adt import MusicADT
+from ..dictionary import Dict
 from plotly import graph_objects as go
 
 example = MusicADT(1999, 2001)

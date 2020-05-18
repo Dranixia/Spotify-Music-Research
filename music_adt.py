@@ -30,7 +30,8 @@ class MusicADT:
         :param fullmode: bool
         """
         assert first_y < last_y and first_y in range(1940, 2017) \
-               and last_y in range(1940, 2017), "Range of years is 0 or negative."
+               and last_y in range(1940, 2017), "Range of years is 0, negative or" \
+                                                "years not in range 1940 - 2016."
         list_size = last_y - first_y + 1
         if fullmode:
             self.full = True
@@ -68,7 +69,7 @@ class MusicADT:
         :param year: int
         :return: None
         """
-        assert year in range(self.first, self.last + 1), "Chosen year is not mentioned years."
+        assert year in range(self.first, self.last + 1), "Chosen year is not in mentioned years."
         start = self.main[year - self.first].head()
         genres = Dict()
         while start is not None:
@@ -93,7 +94,7 @@ class MusicADT:
         :return: None
         """
         assert start_y < finish_y and start_y in range(self.first, self.last + 1)\
-            and finish_y in range(self.first, self.last + 1)
+            and finish_y in range(self.first, self.last + 1), "Invalid info given."
         genres = Dict()
         cumulative_amount = 0
         for year in range(start_y - self.first, finish_y - self.first + 1):

@@ -1,8 +1,6 @@
-# Project Name: UCU SEMESTER TASK: Spotify API
-![]()
-Welcome to the Martian Weather Project.
-
-Here you can check the web app: [Spotify Genre Popularity Project]()
+# Project Name: UCU SEMESTER TASK: Spotify Genres
+![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/logo.png)
+Welcome to the Spotify Genres Project
 
 ## Description: 
 The Spotify Genre Popularity Project uses Spotify Developer Tool: Spotify API to provide users with such information as:
@@ -18,9 +16,11 @@ Project is implemented using Python, Python OOP, abstract data types and structu
 All the information about the process of developing and research is available on the project's wiki.
 ## Contents:
 ### Main modules:
-[main.py](https://github.com/dariaomelkina/UCU-Semester-Homework/blob/master/modules/main.py) –– main module with the actual program.
+[main.py]() -- main module to use the program to its fullest in form of menu.
 
-[adt_weather_data.py](https://github.com/dariaomelkina/UCU-Semester-Homework/blob/master/modules/adt_weather_data.py) –– module with ADT Weather Data Container.
+[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main test module with the actual program, which launches a simulation and gives tutorial for the code.
+
+[music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/music_adt.py) –– module with Music ADT.
 
 [list.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/list.py) –– module with list data structure.
 
@@ -68,7 +68,7 @@ To be added.
 [adt_usage_example.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/adt_usage_example.py) –– module with MusicADT usage example.
 
 ## Prerequisites: 
-Obtaining Spotify's developer key is necessary. It can be done here: 
+Obtaining Spotify's developer key is necessary only for creating already existing JSON file. If you want to do this yourself, you need to create dashboard and get Client ID and Secret. It can be done here: [https://developer.spotify.com/dashboard/](https://developer.spotify.com/dashboard/)
 
 Install Spotipy, Plotly and BeautifulSoup:
 
@@ -88,7 +88,7 @@ demonstrates, which data can be get with that Spotify API).
 They are located in the 'examples' folder. 
 
 ## Example:
-![]()
+![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/Example.png)
 
 ## Credits: 
 - Butynets' Danylo, Ukrainian Catholic University, 2020
