@@ -16,13 +16,10 @@ Project is implemented using Python, Python OOP, abstract data types and structu
 All the information about the process of developing and research is available on the project's wiki.
 ## Contents:
 ### Main modules:
-<<<<<<< HEAD
+
 [main.py]() -- main module to use the program to its fullest in form of menu.
 
-[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main test module with the actual program, which launches a simulation and gives tutorial for the code.
-=======
 [main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
->>>>>>> 29ea063270bd96a5b724152a4a88936747f644c7
 
 [music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/music_adt.py) –– module with Music ADT.
 
