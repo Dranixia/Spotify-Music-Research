@@ -6,7 +6,7 @@ Python 3.8
 
 import sys
 from time import sleep
-from music_adt import MusicADT
+from modules.music_adt import MusicADT
 
 
 class Menu:

@@ -1,6 +1,6 @@
 # import class from the module
 import json
-from music_adt import MusicADT
+from ..modules.music_adt import MusicADT
 from dictionary import Dict
 from plotly import graph_objects as go
 
