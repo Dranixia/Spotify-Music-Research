@@ -54,6 +54,8 @@ Module json_builder creates a json, using Spotify API and web-page parsing to ge
 
 Modules with list, linked list and dictionary data structures consist of corresponding classes (and their node classes).
 
+To get more information about functions, classes and their methods, have a look at the documentation.
+
 ### Wiki: 
 [0. Домашнє завдання №0](https://github.com/Dranixia/UCU-Semester-Work/wiki/%D0%94%D0%97-0)
 
