@@ -18,10 +18,7 @@ All the information about the process of developing and research is available on
 ### Main modules:
 [main.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/main.py) -- main module to use the program to its fullest in form of menu.
 
-[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/example/main_test.py) –– main module with the actual program, 
-
 [main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
->>>>>>> 1a0ecd38bc435b2655502f27855881d44d566180
 
 [music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/music_adt.py) –– module with Music ADT.
 
