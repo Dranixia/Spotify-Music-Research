@@ -103,4 +103,4 @@ They are located in the 'examples' folder.
 - Butynets' Danylo, Ukrainian Catholic University, 2020
 
 ## License:
-MIT License
+- MIT License
