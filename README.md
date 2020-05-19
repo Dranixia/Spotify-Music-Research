@@ -20,7 +20,7 @@ All the information about the process of developing and research is available on
 
 [main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/example/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
 
-[json_builde.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/json_builder.py) -- module for creating JSOn file, that uses Spotify API and web-parse. It provide repeated usuability of the program without having to wait for half an hour.
+[json_builder.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/json_builder.py) -- module for creating JSOn file, that uses Spotify API and web-parse. It provide repeated usuability of the program without having to wait for half an hour.
 
 [music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/music_adt.py) –– module with Music ADT.
 
