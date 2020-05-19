@@ -44,7 +44,6 @@ The graph page is opened locally. The text info is printed in the console of the
 All the data is created, loaded and saved automatically, using Spotify's API, with no need in input from the user. 
 
 Output data is represented visually by graphics, or text in the command console.
-web apps page.
 
 ## Program structure:
 Main module consists of functions, used to create and interact with the ADT in the form of menu app.
