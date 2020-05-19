@@ -16,21 +16,17 @@ Project is implemented using Python, Python OOP, abstract data types and structu
 All the information about the process of developing and research is available on the project's wiki.
 ## Contents:
 ### Main modules:
-<<<<<<< HEAD
-[main.py]() -- main module to use the program to its fullest in form of menu.
+[main.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/main.py) -- main module to use the program to its fullest in form of menu.
 
-[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main test module with the actual program, which launches a simulation and gives tutorial for the code.
-=======
-[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
->>>>>>> 29ea063270bd96a5b724152a4a88936747f644c7
+[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/example/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
 
-[music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/music_adt.py) –– module with Music ADT.
+[music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/music_adt.py) –– module with Music ADT.
 
-[list.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/list.py) –– module with list data structure.
+[list.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/list.py) –– module with list data structure.
 
-[linkedlist.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/linkedlist.py) –– module with linked list data structure.
+[linkedlist.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/linkedlist.py) –– module with linked list data structure.
 
-[dictionary.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/dictionary.py) –– module with modified dict data structures.
+[dictionary.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/dictionary.py) –– module with modified dict data structures.
 
 ## Purpose and usage: 
 Project's purpose is to make it easier for people who research or are interested in music trends and genres by giving the code to 
@@ -49,7 +45,14 @@ Output data is represented visually by graphics, or text in the command console.
 web apps page.
 
 ## Program structure:
-To be added.
+Main module consists of functions, used to create and interact with the ADT in the form of menu app.
+
+Module with MusicADT contains functions to fill it with premade json string data, create and open in browser window graphics, 
+provide information for targeted years or genres, or perform search though itself. All the important music data is stored in that container.
+
+Module json_builder creates a json, using Spotify API and web-page parsing to get all the necessary info and save it, so that program wouldn't run for half an hour each time it is launched.
+
+Modules with list, linked list and dictionary data structures consist of corresponding classes (and their node classes).
 
 ### Wiki: 
 [0. Домашнє завдання №0](https://github.com/Dranixia/UCU-Semester-Work/wiki/%D0%94%D0%97-0)
@@ -96,3 +99,6 @@ They are located in the 'examples' folder.
 
 ## Credits: 
 - Butynets' Danylo, Ukrainian Catholic University, 2020
+
+## License:
+MIT License

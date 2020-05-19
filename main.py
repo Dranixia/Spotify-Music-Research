@@ -29,7 +29,7 @@ class Menu:
         last = int(input("Enter the last year of the period you want to research."))
         self.adt = MusicADT(start, last, fullmode=self.fullmode)
 
-        self.adt.fill_adt("../docs/results.json")
+        self.adt.fill_adt("docs/results.json")
         self.choices = {
             "1": self.year_top_func,
             "2": self.mult_year_top_func,
