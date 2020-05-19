@@ -1,4 +1,4 @@
-# Project Name: UCU SEMESTER TASK: Spotify Genres
+# Project Name: UCU SEMESTER TASK: Genres Research(using Spotify)
 ![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/logo.png)
 Welcome to the Spotify Genres Project
 
