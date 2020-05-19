@@ -17,16 +17,17 @@ class Menu:
         """
         Initialize menu and program.
         """
+        print("Welcome to the Genre Research (Spotify)!")
         answer = ["Y", "N"]
         self.fullmode = input("Do you want to have track and genre "
                               "search on? It will set year "
-                              "range to maximum. [Y] or [N]")
+                              "range to maximum. [Y] or [N]: ")
         while self.fullmode.upper() not in answer:
             self.fullmode = input("Do you want to have track and genre "
                                   "search on? It will set year "
-                                  "range to maximum. [Y] or [N]")
-        start = int(input("Enter the first year of the period you want to research."))
-        last = int(input("Enter the last year of the period you want to research."))
+                                  "range to maximum. [Y] or [N]: ")
+        start = int(input("Enter the first year of the period you want to research: "))
+        last = int(input("Enter the last year of the period you want to research: "))
         self.adt = MusicADT(start, last, fullmode=self.fullmode)
 
         self.adt.fill_adt("docs/results.json")
@@ -60,7 +61,7 @@ Genre Research Menu
         Launch ADT method.
         :return: None
         """
-        y = int(input("Enter the year from the period you are discovering."))
+        y = int(input("Enter the year from the period you are discovering: "))
         self.adt.years_top_genre(y)
 
     def mult_year_top_func(self):
@@ -68,9 +69,9 @@ Genre Research Menu
         Launch ADT method.
         :return: None
         """
-        first_y = int(input("Enter the year from the period you are discovering."))
+        first_y = int(input("Enter the year from the period you are discovering: "))
         last_y = int(input("Enter the year from the period you "
-                           "are discovering.(larger than prevous)"))
+                           "are discovering.(larger than previous): "))
         self.adt.multiple_year_top(first_y, last_y)
 
     def whole_year_func(self):
