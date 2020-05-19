@@ -1,4 +1,4 @@
-# Project Name: UCU SEMESTER TASK: Spotify Genres
+# Project Name: UCU SEMESTER TASK: Genres Research(using Spotify)
 ![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/logo.png)
 Welcome to the Spotify Genres Project
 
@@ -18,15 +18,17 @@ All the information about the process of developing and research is available on
 ### Main modules:
 [main.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/main.py) -- main module to use the program to its fullest in form of menu.
 
-[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
+[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/example/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
 
-[music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/music_adt.py) –– module with Music ADT.
+[json_builder.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/json_builder.py) -- module for creating JSOn file, that uses Spotify API and web-parse. It provide repeated usuability of the program without having to wait for half an hour.
 
-[list.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/list.py) –– module with list data structure.
+[music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/music_adt.py) –– module with Music ADT.
 
-[linkedlist.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/linkedlist.py) –– module with linked list data structure.
+[list.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/list.py) –– module with list data structure.
 
-[dictionary.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/dictionary.py) –– module with modified dict data structures.
+[linkedlist.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/linkedlist.py) –– module with linked list data structure.
+
+[dictionary.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/dictionary.py) –– module with modified dict data structures.
 
 ## Purpose and usage: 
 Project's purpose is to make it easier for people who research or are interested in music trends and genres by giving the code to 
@@ -42,7 +44,6 @@ The graph page is opened locally. The text info is printed in the console of the
 All the data is created, loaded and saved automatically, using Spotify's API, with no need in input from the user. 
 
 Output data is represented visually by graphics, or text in the command console.
-web apps page.
 
 ## Program structure:
 Main module consists of functions, used to create and interact with the ADT in the form of menu app.
