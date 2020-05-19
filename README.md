@@ -16,16 +16,9 @@ Project is implemented using Python, Python OOP, abstract data types and structu
 All the information about the process of developing and research is available on the project's wiki.
 ## Contents:
 ### Main modules:
-<<<<<<< HEAD
 [main.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/main.py) -- main module to use the program to its fullest in form of menu.
 
-[main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/example/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
-=======
-
-[main.py]() -- main module to use the program to its fullest in form of menu.
-
 [main_test.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/modules/main_test.py) –– main module with the actual program, which launches a simulation and gives tutorial for the code.
->>>>>>> 1a0ecd38bc435b2655502f27855881d44d566180
 
 [music_adt.py](https://github.com/Dranixia/UCU-Semester-Work/blob/master/music_adt.py) –– module with Music ADT.
 
@@ -60,6 +53,8 @@ provide information for targeted years or genres, or perform search though itsel
 Module json_builder creates a json, using Spotify API and web-page parsing to get all the necessary info and save it, so that program wouldn't run for half an hour each time it is launched.
 
 Modules with list, linked list and dictionary data structures consist of corresponding classes (and their node classes).
+
+To get more information about functions, classes and their methods, have a look at the documentation.
 
 ### Wiki: 
 [0. Домашнє завдання №0](https://github.com/Dranixia/UCU-Semester-Work/wiki/%D0%94%D0%97-0)
@@ -108,4 +103,4 @@ They are located in the 'examples' folder.
 - Butynets' Danylo, Ukrainian Catholic University, 2020
 
 ## License:
-MIT License
+- MIT License
