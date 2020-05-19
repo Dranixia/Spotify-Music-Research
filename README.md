@@ -1,6 +1,5 @@
 # Project Name: UCU SEMESTER TASK: Genres Research(using Spotify)
 ![](https://github.com/Dranixia/UCU-Semester-Work/blob/master/docs/logo.png)
-Welcome to the Spotify Genres Project
 
 ## Description: 
 The Spotify Genre Popularity Project uses Spotify Developer Tool: Spotify API to provide users with such information as:
